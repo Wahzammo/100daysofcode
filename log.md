@@ -2,10 +2,9 @@
 
 ### Day 1: August 10th, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Today I have started on the 2nd last prject for the FCC Responsive Web Design Projects Certification. Basic HTML and CSS
 
-**Thoughts** 
+**Thoughts**  It was interesting after not doing any coding for at least a fortnight, it took me a good 30mins to get my head back in the game....
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://codepen.io/Wahzammo/pen/jOWRvwG
