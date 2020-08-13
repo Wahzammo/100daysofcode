@@ -30,7 +30,7 @@
 1. https://codepen.io/Wahzammo/pen/jOWRvwG
 
 
-### Day 3: August 13th, Thursday
+### Day 4: August 13th, Thursday
 
 **Today's Progress**: Today I restarted the Javascript Algorithms and Data Structures Certification on FCC; ES6 challenges tongight: 
 Explore Differences Between the var and let Keywords
