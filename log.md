@@ -28,3 +28,21 @@
 
 **Link(s) to work**
 1. https://codepen.io/Wahzammo/pen/jOWRvwG
+
+
+### Day 3: August 13th, Thursday
+
+**Today's Progress**: Today I restarted the Javascript Algorithms and Data Structures Certification on FCC; ES6 challenges tongight: 
+Explore Differences Between the var and let Keywords
+Compare Scopes of the var and let Keywords
+Declare a Read-Only Variable with the const Keyword
+Mutate an Array Declared with const
+Prevent Object Mutation
+Use Arrow Functions to Write Concise Anonymous Functions
+Write Arrow Functions with Parameters
+Set Default Parameters for Your Functions
+
+**Thoughts**  Today was a bloody long day, I am completing this at 2.21am....
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/
