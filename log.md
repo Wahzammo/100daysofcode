@@ -32,7 +32,16 @@
 
 ### Day 4: August 13th, Thursday
 
-**Today's Progress**: Today I restarted the Javascript Algorithms and Data Structures Certification on FCC;  ES6 challenges tonight:  Explore Differences Between the var and let Keywords;  Compare Scopes of the var and let Keywords;  Declare a Read-Only Variable with the const Keyword;  Mutate an Array Declared with const;  Prevent Object Mutation;  Use Arrow Functions to Write Concise Anonymous Functions;  Write Arrow Functions with Parameters;  Set Default Parameters for Your Functions
+**Today's Progress**: Today I restarted the Javascript Algorithms and Data Structures Certification on FCC;   
+ES6 challenges tonight:   
+Explore Differences Between the var and let Keywords;   
+Compare Scopes of the var and let Keywords;   
+Declare a Read-Only Variable with the const Keyword;   
+Mutate an Array Declared with const;   
+Prevent Object Mutation;   
+Use Arrow Functions to Write Concise Anonymous Functions;   
+Write Arrow Functions with Parameters;   
+Set Default Parameters for Your Functions
 
 **Thoughts**  Today was a bloody long day, I am completing this at 2.21am....
 
@@ -44,9 +53,20 @@
 
 **Today's Progress**: Continued on with the Javascript Algorithms and Data Structures Certification on FCC;  More ES6 challenges tonight: 
 
-Use the Rest Parameter with Function Parameters;  Use the Spread Operator to Evaluate Arrays In-Place;  Use Destructuring Assignment to Extract Values from Objects;  Use Destructuring Assignment to Assign Variables from Objects;  Use Destructuring Assignment to Assign Variables from Nested Objects;  Use Destructuring Assignment to Assign Variables from Arrays;  Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements;  Use Destructuring Assignment to Pass an Object as a Function's Parameters;  Create Strings using Template Literals;  Write Concise Object Literal Declarations Using Object Property Shorthand;  Write Concise Declarative Functions with ES6; Use class Syntax to Define a Constructor Function
+Use the Rest Parameter with Function Parameters;  
+Use the Spread Operator to Evaluate Arrays In-Place;  
+Use Destructuring Assignment to Extract Values from Objects;  
+Use Destructuring Assignment to Assign Variables from Objects;  
+Use Destructuring Assignment to Assign Variables from Nested Objects;  
+Use Destructuring Assignment to Assign Variables from Arrays;  
+Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements;  
+Use Destructuring Assignment to Pass an Object as a Function's Parameters;  
+Create Strings using Template Literals;  
+Write Concise Object Literal Declarations Using Object Property Shorthand;  
+Write Concise Declarative Functions with ES6; 
+Use class Syntax to Define a Constructor Function
 
-**Thoughts**  After a late night and long week of study I was struggling big time; I will definately need to review all this mor than once to let it sink in....
+**Thoughts**  After a late night and long week of study I was struggling big time; I will definately need to review all this mor than once to let it sink in.... the destructuring was doing my head in, I knew what it was asking just the code changes did not seem obvious at times. I referred to Mozilla a fair bit to assist and only needed to see the answers on two of the problems.
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/
