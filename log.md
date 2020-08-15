@@ -70,3 +70,13 @@ Use class Syntax to Define a Constructor Function
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/
+
+
+### Day 6: August 15th, Saturday
+
+**Today's Progress**: Today back to working on my C# coding, specifically my terminal hacker game... trying to figure out the ins and outs the existing code base to get the lines on the terminal formatted with line breaks but in a way that doesn't have + '\n' fucking everywhere!!!!     
+
+**Thoughts** I feel like taking the existing code base and pulling it apart, rewriting, see what happens is very similar to my early industrial controls days, let's just wire it up this way and see what happens.. at least with code the risk of explosions or fires is ZERO :laughing:  I am having fun if not making much progress, but at least after today I know more than I did yesterday even if the code has not increased much. Knowing what not to do is still a valuable thing!    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/hacker_time
