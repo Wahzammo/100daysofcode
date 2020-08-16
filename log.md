@@ -80,3 +80,13 @@ Use class Syntax to Define a Constructor Function
 
 **Link(s) to work**
 1. https://github.com/Wahzammo/hacker_time
+
+
+### Day 7: August 16th, Sunday
+
+**Today's Progress**: Today back to working on my C# coding, specifically my terminal hacker game... changed code to not have excessive '\n'.. further worked on hacker.cs, builidng out player target options..    
+
+**Thoughts** Was totally stoked to come back and solve the '\n' issue within about 10 mins this morning/afternoon... really felt great to know that the work I did yesterday did infact improve my understanding of the code base.    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/hacker_time
