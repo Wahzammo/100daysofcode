@@ -90,3 +90,13 @@ Use class Syntax to Define a Constructor Function
 
 **Link(s) to work**
 1. https://github.com/Wahzammo/hacker_time
+
+
+### Day 8: August 17th, Monday
+
+**Today's Progress**:  back into the Responsive Web Design Projects on #freeCodeCamp. Continued on my technical documentation page. Finished with HTML and content onto CSS!!!    
+
+**Thoughts** Nice to making progress, really starting to remember the HTML now without to much pondering. I think it is important to have a good understanding of the basics of getting content into the DOM in its simplest form.... HTML makes walls of text readable and functional and should not be overlooked.    
+
+**Link(s) to work**
+1. https://codepen.io/Wahzammo/pen/jOWRvwG
