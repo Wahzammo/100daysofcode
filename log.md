@@ -100,3 +100,14 @@ Use class Syntax to Define a Constructor Function
 
 **Link(s) to work**
 1. https://codepen.io/Wahzammo/pen/jOWRvwG
+
+
+### Day 9: August 18th, Tuesday
+
+**Today's Progress**:  had a crack at some more of the Javascript stuff on freecodecamp and realised that I was brute forcing my way through the content and not really learning JS... I have bought a udemy course to correct this... since a sale was on bought an CSS course also to cement my learning further, started with the CSS.    
+
+**Thoughts** There really are no short cuts, just like my sparkie skills, you can only develop real understanding by doing and doing often..    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff
+
