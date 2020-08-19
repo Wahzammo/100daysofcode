@@ -111,3 +111,13 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://github.com/Wahzammo/css-stuff
 
+
+### Day 10: August 19th, Wednesday
+
+**Today's Progress**:  continuing on with the Udemy course CSS-The Complete Guide 2020... today we covered BOX styling.    
+
+**Thoughts** Again, I pretty much have to repeart... There really are no short cuts, just like my sparkie skills, you can only develop real understanding by doing and doing often..    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff
+
