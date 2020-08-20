@@ -62,8 +62,9 @@ Use Destructuring Assignment to Assign Variables from Arrays;
 Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements;  
 Use Destructuring Assignment to Pass an Object as a Function's Parameters;  
 Create Strings using Template Literals;  
-Write Concise Object Literal Declarations Using Object Property Shorthand;  
-Write Concise Declarative Functions with ES6; 
+Write Concise Object Literal Declarations;   
+Using Object Property Shorthand;   
+Write Concise Declarative Functions with ES6;  
 Use class Syntax to Define a Constructor Function
 
 **Thoughts**  After a late night and long week of study I was struggling big time; I will definately need to review all this mor than once to let it sink in.... the destructuring was doing my head in, I knew what it was asking just the code changes did not seem obvious at times. I referred to Mozilla a fair bit to assist and only needed to see the answers on two of the problems.
@@ -116,7 +117,17 @@ Use class Syntax to Define a Constructor Function
 
 **Today's Progress**:  continuing on with the Udemy course CSS-The Complete Guide 2020... today we covered BOX styling.    
 
-**Thoughts** Again, I pretty much have to repeart... There really are no short cuts, just like my sparkie skills, you can only develop real understanding by doing and doing often..    
+**Thoughts** Again, I pretty much have to repeat... There really are no short cuts, just like my sparkie skills, you can only develop real understanding by doing and doing often..    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff
+
+
+### Day 11: August 20th, Thursday
+
+**Today's Progress**:  continuing on with the Udemy course CSS-The Complete Guide 2020... today we covered creating the nav bar and discussed inline element behaviours in detail.    
+
+**Thoughts** I am so glad I took this course, I have learned things already that was not included in the FCC course, but will be super helpful! Also, coding with a hangover is no fun.    
 
 **Link(s) to work**
 1. https://github.com/Wahzammo/css-stuff
