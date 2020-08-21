@@ -132,3 +132,13 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://github.com/Wahzammo/css-stuff
 
+
+### Day 12: August 21th, Friday
+
+**Today's Progress**:  continuing on with the Udemy course CSS-The Complete Guide 2020... today we covered styling anchor's and creating simple repsonsive buttons.    
+
+**Thoughts** Another Friday and another struggle, just hard to stay awake!! So I had a nap and then came back to it later!! Arvo naps FTW!    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff
+
