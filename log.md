@@ -142,3 +142,13 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://github.com/Wahzammo/css-stuff
 
+
+### Day 13: August 22th, Saturday
+
+**Today's Progress**:  After staying up unitl 4am playing Satisfactory with mates, I managed to open the IDE and orgainse the folder structure and that was it! Technically this will have to go down as a missed opportunity due to other commitments!    
+
+**Thoughts** Well, maybe I can swing it that playing games all night with mates is market research???    
+
+**Link(s) to work**
+1. https://www.satisfactorygame.com/
+
