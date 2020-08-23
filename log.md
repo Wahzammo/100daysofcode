@@ -152,3 +152,13 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://www.satisfactorygame.com/
 
+
+### Day 13: August 22th, Saturday
+
+**Today's Progress**:  today I went a little left field and started on learning how Unity handles non-player AI.. started with a quick brief on vector maths! I am following Penny de Byl's course, The Beginner's Guide to Artificial Intelligence in Unity. A practical guide to programming non-player characters for games.     
+
+**Thoughts** I managed an hour of learning, and about an hour of creating git repo, cloning it, setting up the unity project... must remember that setup takes time! About an hour so, I am wondering if there is quicker way? Like with the NPM install package...    
+
+**Link(s) to work**
+1. https://www.udemy.com/course/artificial-intelligence-in-unity/   
+2. https://github.com/Wahzammo/Unity_AI/tree/master/MoveVector/Assets   
