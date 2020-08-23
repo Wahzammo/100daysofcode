@@ -153,7 +153,7 @@ Use class Syntax to Define a Constructor Function
 1. https://www.satisfactorygame.com/
 
 
-### Day 13: August 22th, Saturday
+### Day 14: August 23th, Sunday
 
 **Today's Progress**:  today I went a little left field and started on learning how Unity handles non-player AI.. started with a quick brief on vector maths! I am following Penny de Byl's course, The Beginner's Guide to Artificial Intelligence in Unity. A practical guide to programming non-player characters for games.     
 
