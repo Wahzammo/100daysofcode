@@ -173,3 +173,13 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://www.satisfactorygame.com/
 2. https://www.youtube.com/playlist?list=PLIhLvue17Sd7F6pU2ByRRb0igiI-WKk3D     
+
+
+### Day 16: August 25th, Tuesday
+
+**Today's Progress**: continuing on with the Udemy course CSS-The Complete Guide 2020... today we covered selectors and other general features.     
+
+**Thoughts** After so much fun with the gaming, I wonder why I bother with the web dev stuff, should I just focus on game dev? I dunno, I feel that my chances in getting employment will be higher with web dev....    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff  
