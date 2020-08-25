@@ -162,3 +162,14 @@ Use class Syntax to Define a Constructor Function
 **Link(s) to work**
 1. https://www.udemy.com/course/artificial-intelligence-in-unity/   
 2. https://github.com/Wahzammo/Unity_AI/tree/master/MoveVector/Assets   
+
+
+### Day 15: August 24th, Monday
+
+**Today's Progress**:  I am writing this after 5 hours sleep after a 40 hour gaming binge!! Let me hear you cry "One more level!"... the game is Satisfactory and is just stunning, it is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven! The developers Coffee Stain Studios have done a fine job! No code today, but I did watch the youtube documentary on Double Fine Adventure and Tim Schafer following the four development process around making the game Broken Age, all 12 hours of it!    
+
+**Thoughts** I am way too old to be staying up for days straight gaming, but I love it! I can't think of another medium that can keep you so engaged when done well. This is why I want to make games!    
+
+**Link(s) to work**
+1. https://www.satisfactorygame.com/
+2. https://www.youtube.com/playlist?list=PLIhLvue17Sd7F6pU2ByRRb0igiI-WKk3D     
