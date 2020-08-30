@@ -183,3 +183,13 @@ Use class Syntax to Define a Constructor Function
 
 **Link(s) to work**
 1. https://github.com/Wahzammo/css-stuff  
+
+
+### Day 17 - 21: August 25th - 29th
+
+**Today's Progress**: this week has almost been a write off, had some personal issues to deal with and a bout of a 'wtf did I eat' 24hr illness...   
+
+**Thoughts** It is interesting how quickly 1 day missed can turn into 4 without even blinking, I really need to stick to a no zero day policy... constitency and perstiance is key!    
+
+**Link(s) to work**
+1. https://github.com/Wahzammo/css-stuff
