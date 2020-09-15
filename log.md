@@ -10,3 +10,11 @@
 1. https://codepen.io/Wahzammo/full/jOWRvwG
 
 
+### Day 1: September 15th, Tuesday
+
+**Today's Progress**: Today I the last project for the FreeCodeCamp (FCC) Responsive Web Design Projects Certification. Using Basic HTML and CSS to Build a Personal Portfolio Page   
+
+**Thoughts**  Another dau of realising that coding is a habit that must be fed! Starting the initial project from scratch took me a little while to get confident about putting code on the screen. I kept thinking about templates or the proper way to layout the html... in the end I just completed user story 1 and then went onto user story 2 and before I knew it I had the basics on the page ready for personalising!   
+
+**Link(s) to work**
+1. https://codepen.io/Wahzammo/full/bGpjbpz

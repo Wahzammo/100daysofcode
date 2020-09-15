@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 1.0 (First attempt)
 
 ### Day 1: August 10th, Monday
 
