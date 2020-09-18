@@ -24,7 +24,17 @@
 
 **Today's Progress**: Today I continued with the last project for the FreeCodeCamp (FCC) Responsive Web Design Projects Certification. Using Basic HTML and CSS to Build a Personal Portfolio Page   
 
-**Thoughts**  Everytime you go back to look a code you wrote previously, it seems that you can always refactor or tidy up in some way. Today was like that, I am glad that I am getting to a point in my coding journey where I can actually look at code and see how it could be improved or even remove redunant lines of code     
+**Thoughts**  Everytime you go back to look at code you wrote previously, it seems that you can always refactor or tidy up in some way. Today was like that, I am glad that I am getting to a point in my coding journey where I can actually look at code and see how it could be improved or even remove redundant lines of code     
 
 **Link(s) to work**
 1. https://codepen.io/Wahzammo/full/bGpjbpz
+
+
+### Day 3: September 17th, Thursday
+
+**Today's Progress**: Today I did absolutey no coding as I was extremely exhausted after a unsettled sleep, and a job interview. I got the job and then relaxed and napped most of the day away!    
+
+**Thoughts**  I felt a bit bad about missing another day of coding so early into my 2nd attempt but it's not everyday you land your dream job XD   
+
+**Link(s) to work**
+1. https://www.mobileautomation.com.au/ (new employer!)
