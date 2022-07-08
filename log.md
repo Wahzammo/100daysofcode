@@ -38,3 +38,12 @@
 
 **Link(s) to work**
 1. https://www.mobileautomation.com.au/ (new employer!)
+
+
+### Day Whatever: July 8th, Friday 2022
+
+**Today's Progress**: Update job was good but didn't work out... have pivot to PM in tech industry... infrastructure as code is really capturing my attention, working on Azure certifications... have twins due in less than 3 weeks... XD
+
+**Link(s) to work**
+1. https://www.credly.com/badges/3c3fb5fc-4e9e-40e4-954d-edd2d413f3ab?source=linked_in_profile
+2. https://www.credly.com/badges/9d56769f-f0fc-4ab1-83a4-f489b42d705a?source=linked_in_profile
